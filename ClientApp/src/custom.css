@@ -1,0 +1,4 @@
+/* Provide sufficient contrast against white background */
+body{
+  padding: 50px;
+}
